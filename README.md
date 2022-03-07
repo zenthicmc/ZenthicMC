@@ -1,5 +1,5 @@
 ### Hi 👋 I'm Jagad Raya
-A Fullstack Web Developer From Indonesia
+A Fullstack Web Developer From Indonesia<br>
 ![](https://komarev.com/ghpvc/?username=ZenthicMC)<br>
 - 🖼️ Interested On UI/UX Design<br>
 - 📖 Currently Exploring CodeIgniter4<br>
