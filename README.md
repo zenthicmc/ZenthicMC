@@ -22,7 +22,7 @@ A Fullstack Web Developer From Indonesia<br>
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=ZenthicMC&show_icons=true&theme=nightowl)<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZenthicMC&layout=compact&show_icons=true&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
-<br>
+<br><br>
 ![](https://komarev.com/ghpvc/?username=ZenthicMC&color=green)
 
 
