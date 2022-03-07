@@ -18,7 +18,7 @@ A Fullstack Web Developer From Indonesia<br>
 
 ### Reach Me On
 - <a href="https://www.instagram.com/jagad.raya18/">Instagram</a><br>
-- <a href="http://linkedin.com/in/jagadraya/">LinkedIN</a><br><br>
+- <a href="http://linkedin.com/in/jagadraya/">LinkedIn</a><br><br>
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=ZenthicMC&show_icons=true&theme=nightowl)<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZenthicMC&layout=compact&show_icons=true&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
