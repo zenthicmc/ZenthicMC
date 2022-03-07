@@ -16,15 +16,15 @@ A Fullstack Web Developer From Indonesia<br>
 <img align="left" alt="SQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
 <br><br><br>
 
-[![ZenthicMC Stats](https://github-readme-stats.vercel.app/api?username=ZenthicMC&show_icons=true&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)<br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZenthicMC&show_icons=true&theme=nightowl&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 <br>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+<a href="https://github.com/ZenthicMC">
+  [![ZenthicMC Stats](https://github-readme-stats.vercel.app/api?username=ZenthicMC&show_icons=true&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)<br>
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+<a href="https://github.com/ZenthicMCt">
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZenthicMC&show_icons=true&theme=nightowl&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 </a>
 
 
