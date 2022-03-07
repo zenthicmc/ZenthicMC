@@ -14,7 +14,7 @@ A Fullstack Web Developer From Indonesia<br>
 <img align="left" alt="BOOTSTRAP" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" style="padding-right:10px;" />
 <img align="left" alt="PYTHON" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="padding-right:10px;" />
 <img align="left" alt="SQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
-<br><br>
+<br><br><br>
 
 [![ZenthicMC Stats](https://github-readme-stats.vercel.app/api?username=ZenthicMC&show_icons=true&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZenthicMC&show_icons=true&theme=nightowl&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
