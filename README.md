@@ -17,7 +17,7 @@ A Fullstack Web Developer From Indonesia<br>
 <br><br><br>
 
 ### Reach Me On
-<a href="https://www.instagram.com/jagad.raya18/">Instagram</a>
-<a href="http://linkedin.com/in/jagadraya/">LinkedIN</a>
+- <a href="https://www.instagram.com/jagad.raya18/">Instagram</a><br>
+- <a href="http://linkedin.com/in/jagadraya/">LinkedIN</a><br>
 
 
