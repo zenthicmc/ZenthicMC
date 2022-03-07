@@ -15,10 +15,11 @@ A Fullstack Web Developer From Indonesia<br>
 <img align="left" alt="PYTHON" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="padding-right:10px;" />
 <img align="left" alt="SQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
 
+![Stats](https://github-readme-stats.vercel.app/api?username=ZenthicMC)
 <br><br>
 ### Reach Me On
 - <a href="https://www.instagram.com/jagad.raya18/">Instagram</a><br>
 - <a href="http://linkedin.com/in/jagadraya/">LinkedIN</a><br><br>
-![](https://komarev.com/ghpvc/?username=ZenthicMC)![](https://komarev.com/ghpvc/?username=ZenthicMC)![](https://komarev.com/ghpvc/?username=ZenthicMC)<br>
+![](https://komarev.com/ghpvc/?username=ZenthicMC)<br>
 
 
