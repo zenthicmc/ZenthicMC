@@ -17,7 +17,7 @@ A Fullstack Web Developer From Indonesia<br>
 <img align="left" alt="SQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" /><br><br>
 
 ### Reach Me On
-- <a href="https://www.instagram.com/jagad.raya18/"><img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" /> Instagram</a><br>
+- <a href="https://www.instagram.com/jagad.raya18/"><img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/> Instagram</a><br>
 - <a href="http://linkedin.com/in/jagadraya/">LinkedIN</a><br><br><br>
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=ZenthicMC&show_icons=true&theme=nightowl)<br>
