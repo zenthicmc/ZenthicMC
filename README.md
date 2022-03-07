@@ -17,4 +17,4 @@ A Fullstack Web Developer From Indonesia<br>
 <br />
 
 ### My Github Statistic
-[![ZenthicMC Stats](https://github-readme-stats.vercel.app/api?username=ZenthicMC&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![ZenthicMC Stats](https://github-readme-stats.vercel.app/api?username=ZenthicMC&show_icons=true&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
