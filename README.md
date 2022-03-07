@@ -13,7 +13,7 @@ A Fullstack Web Developer From Indonesia<br>
 <img align="left" alt="CI4" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeigniter/codeigniter-plain.svg" style="padding-right:10px;" />
 <img align="left" alt="BOOTSTRAP" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" style="padding-right:10px;" />
 <img align="left" alt="PYTHON" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="padding-right:10px;" />
-<img align="left" alt="SQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
+<img align="left" alt="SQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />{
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZenthicMC&show_icons=true&theme=radical)
 
 
