@@ -16,6 +16,5 @@ A Fullstack Web Developer From Indonesia<br>
 <img align="left" alt="SQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
 <br><br><br>
 ![Jagad's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZenthicMC&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZenthicMC&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
