@@ -23,8 +23,6 @@ A Fullstack Web Developer From Indonesia<br>
 <a href="https://github.com/ZenthicMC">
   [![ZenthicMC Stats](https://github-readme-stats.vercel.app/api?username=ZenthicMC&show_icons=true&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)<br>
 </a>
-<a href="https://github.com/ZenthicMCt">
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZenthicMC&show_icons=true&theme=nightowl&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-</a>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZenthicMC&show_icons=true&theme=nightowl&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
