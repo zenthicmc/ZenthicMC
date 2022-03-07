@@ -1,6 +1,7 @@
 ### Hi 👋 I'm Jagad Raya
-🌐 A Fullstack Web Developer From  Indonesia 
 ![](https://komarev.com/ghpvc/?username=ZenthicMC)
+🌐 A Fullstack Web Developer From  Indonesia 
+
 
 <!--
 **ZenthicMC/ZenthicMC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
