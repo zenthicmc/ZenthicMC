@@ -1,5 +1,5 @@
 ### Hi 👋 I'm Jagad Raya
-![](https://komarev.com/ghpvc/?username=ZenthicMC)
+![](https://komarev.com/ghpvc/?username=ZenthicMC)<br>
 🌐 A Fullstack Web Developer From  Indonesia 
 
 
