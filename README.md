@@ -1,7 +1,7 @@
 ### Hi 👋 I'm Jagad Raya
 A 19 y.o Fullstack Web Developer From Indonesia<br>
 - 🖼️ Interested On UI/UX Design<br>
-- 📖 Currently Exploring CodeIgniter<br>
+- 📖 Currently Learning Advanced Javascript<br>
 - 🐱 A Guy Who Loves Cats<br>
 
 ### Tech Stack
