@@ -1,5 +1,5 @@
 ### Hi 👋 I'm Jagad Raya R
-A 19 y.o Fullstack Web Developer From Indonesia<br>
+A Fullstack Web Developer From Indonesia<br>
 - ⭐ Interested In Software Architecture<br>
 - 📖 Currently Learning Android<br>
 - 🐱 A Guy Who Loves Cats<br>
