@@ -1,7 +1,7 @@
 ### Hi 👋 I'm Jagad Raya R
 A Fullstack Web Developer From Indonesia<br>
-- ⭐ Interested In DevOps<br>
-- 📖 Currently Learning Android<br>
+- ⭐ Interested In System Architechtures<br>
+- 📖 Currently Learning Cloud Computing<br>
 - 🐱 A Guy Who Loves Cats<br>
 
 ### Technologies
